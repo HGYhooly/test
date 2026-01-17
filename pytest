@@ -1,0 +1,8 @@
+input_A=float(input('请输入数字a：'))
+input_B=float(input('请输入数字b：'))
+def max_val(input_number_A,input_number_B,number_name_A="a",number_name_B='b')
+  if input_namber_A>input_number_B:
+    return true
+  else:
+    return false
+max_input=max_val(input_A,input_B)
